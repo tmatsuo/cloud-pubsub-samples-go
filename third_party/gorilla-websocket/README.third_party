@@ -1,0 +1,11 @@
+URL: https://github.com/gorilla/websocket/tarball/a6f041ac33b84488bb44137d6866cd3c8706d792
+Version: a6f041ac33b84488bb44137d6866cd3c8706d792
+License: The BSD 2-Clause License
+License File: LICENSE
+
+Description:
+This directory contains some files from example/chat directory of the original
+project.
+
+Local Modifications:
+No Modifications.
